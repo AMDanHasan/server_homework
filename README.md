@@ -1,1 +1,1 @@
-# server_homework
+Babby's first server, using Ruby and Sinatra
